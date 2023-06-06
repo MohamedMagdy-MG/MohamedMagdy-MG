@@ -38,10 +38,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<hr/>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skrskr&show_icons=true&layout=compact&theme=github_dark" alt="skrskr" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skrskr&show_icons=true&theme=github_dark" alt="skrskr" />
-
 
 
