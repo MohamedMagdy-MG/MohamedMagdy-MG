@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Magdy</h1>
-<h3 align="center">Software Engineer, PHP, Python Backend Developer</h3>
+<h3 align="center">Software Engineer, PHP Backend Developer</h3>
 <hr/>
 
 - 🔭 I’m currently working on [Layouti](https://layouti.com)
