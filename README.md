@@ -13,6 +13,8 @@
 <a href="https://www.linkedin.com/in/mohamed-magdy-50a08a233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Magdy" height="30" width="40" /></a>
 <a href="https://web.facebook.com/MohamedMagdy9191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed Magdy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22239815/mohamed-magdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Mohamed Magdy" height="30" width="40" /></a>
+<a href="mailto: mohamedmagdy2891@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/download/223047/gmail.svg" alt="Mohamed Magdy" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
